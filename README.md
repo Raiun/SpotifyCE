@@ -1,0 +1,2 @@
+# SpotifyCE
+Spotify Chrome Extension
